@@ -5,6 +5,8 @@ Simple equalizer widget for Qt
 
 This is a equalizer widget based on QCustomPlot for Qt.
 
+_**Use [LiquidEqualizerWidget](https://github.com/ThePBone/LiquidEqualizerWidget) instead!**_
+
 Since the `QEqualizerView` class inherits QCustomPlot, you can use its functions to read/write the eq graph.
 (Refer to the [docs](https://www.qcustomplot.com/documentation/) if you don't know how)
 
